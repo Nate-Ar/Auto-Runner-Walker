@@ -6,7 +6,7 @@ from pynput.keyboard import Key, Controller
 import keyboard
 import time
 keyboard1 = Controller();
-print ('type "help()" to see all options')
+print ('type "help()" to see all options Or check out our wiki "https://github.com/Nate-Ar/Automator/wiki"')
 
 while True:
     try:
@@ -23,6 +23,7 @@ while True:
         if input1 == 'help()':
             print ('Try "run()","walk()","quit()"')
             print ('If your walk/run wont stop the click "W" or "Shift W"')
+
 
         def run():
             print('Press "L" to stop');
