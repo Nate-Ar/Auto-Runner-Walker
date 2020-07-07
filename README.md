@@ -9,7 +9,7 @@ Pip Installed
 
 Pip Not Installed
 
-![](https://i.imgur.com/OREqZx7.png)
+![](https://i.imgur.com/DLMT7QD.png)
 
 Pip Setup - https://www.youtube.com/watch?v=cm6WDGAzDPM
 
