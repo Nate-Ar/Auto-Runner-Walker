@@ -1,6 +1,7 @@
 #Creator: Nathan A
 #Date: 7/6/20
 #Discription: Auto Runner/Walker
+#Github: https://github.com/Nate-Ar
 
 from  pynput.keyboard import Key, Controller
 import keyboard
