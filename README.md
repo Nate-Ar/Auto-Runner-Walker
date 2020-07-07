@@ -5,7 +5,7 @@ You will have to use pip to set this up so if you dont have it set up you will n
 
 Pip Installed
 
-![](https://i.imgur.com/2l6nouK.png)
+![](https://i.imgur.com/2l6nouK.png 100x20)
 
 Pip Not Installed
 
