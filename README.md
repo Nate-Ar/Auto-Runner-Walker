@@ -14,15 +14,15 @@ Pip Not Installed
 Pip Setup - https://www.youtube.com/watch?v=cm6WDGAzDPM
 
 Now once your have pip ready now its time to install the pynput module<br>
-Open up a cmd window and type "pip install pynput"
+Open up a cmd window and type `pip install pynput`
 
 Next you need to intall the keyboard module<br>
-Open up a cmd window and type "pip install keyboard"
+Open up a cmd window and type `pip install keyboard`
 
 Finaly you can put to Automator.py file on your desktop and open it
 
-You can type help() to get help
+You can type `help()` to get help
 
-If you type run() you will have 5 seconds to get into your game before you will start running
+If you type `run()` you will have 5 seconds to get into your game before you will start running
 
-If you type walk() you will have 5 seconds to get into your game before you will start running
+If you type `walk()` you will have 5 seconds to get into your game before you will start running
