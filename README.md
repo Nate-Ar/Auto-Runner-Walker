@@ -1,5 +1,5 @@
 # Auto-Runner-Walker
-Will help you automatically walk or run in your favorite games
+This will help you automatically walk or run in your favorite games
 
 You will have to use pip to set this up so if you dont have it set up you will need to and if your not sure if you do open a cmd window and type pip and if no errors then it is set up if not then use the link below
 
