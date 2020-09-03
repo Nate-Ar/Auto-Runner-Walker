@@ -1,7 +1,7 @@
-#Creator: Nathan A
-#Date: 7/6/20
-#Description: Auto Runner/Walker
-
+# Creator: Nathan A
+# Description: Automaticly run or walk in a game
+# Creation Date: 7/6/2020
+# Update Date: 7/7/2020
 from pynput.keyboard import Key, Controller
 import keyboard
 import time
