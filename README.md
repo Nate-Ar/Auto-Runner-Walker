@@ -27,6 +27,8 @@ If you type `run()` you will have 5 seconds to get into your game before you wil
 
 If you type `walk()` you will have 5 seconds to get into your game before you will start running
 
+You can use 'L' to stop the auto walk/run
+
 # Games Tested
 
 Compatible ![](https://i.imgur.com/Kd4kfsZ.png) ,
